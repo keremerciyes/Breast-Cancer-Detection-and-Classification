@@ -68,4 +68,4 @@ For more detailed information, refer to the provided PDF presentation: `presenta
 
 ---
 
-This README provides an overview of the project, its components, and instructions on how to use the application. For any further queries or detailed explanations, please refer to the project documentation and notebooks.
+This README provides an overview of the project, its components, and instructions on how to use the application. For any further queries or detailed explanations, please refer to the project documentation and presentation.
