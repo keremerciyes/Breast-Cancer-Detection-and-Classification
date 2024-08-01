@@ -65,7 +65,3 @@ The project includes several components:
 The project provides a reliable and ethically sound method for diagnosing breast health from ultrasound data. The use of AI in tumor detection and classification aids in early diagnosis and monitoring.
 
 For more detailed information, refer to the provided PDF presentation: `presentation_of_breast_cancer_classification_segmentation.pdf`.
-
----
-
-This README provides an overview of the project, its components, and instructions on how to use the application. For any further queries or detailed explanations, please refer to the project documentation and presentation.
